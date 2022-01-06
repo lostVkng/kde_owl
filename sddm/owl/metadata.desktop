@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=owl
+Description=A minimal dark KDE SDDM theme
+Author=Tom Jones
+Copyright=(c) 2020, Tom Jones
+Email=tomfjones8@gmail.com
+License=GPL 3+
+Type=sddm-theme
+Version=0.1.0
+Website=https://gitlab.com/lostVkng/kde_owl
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=owl
+Theme-API=2.0
